@@ -1,4 +1,4 @@
-vrajmane07/shivrajmane07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+shivrajmane07
 
 Here are some ideas to get you started:
 
